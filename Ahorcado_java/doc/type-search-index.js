@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"ahorcado_java","l":"Ahorcado"},{"l":"All Classes and Interfaces","u":"allclasses-index.html","k":"18"}];updateSearchResults();
